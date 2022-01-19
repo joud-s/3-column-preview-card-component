@@ -16,7 +16,7 @@
   box-sizing: border-box;
 }
 body {
-  background: var(--Transparent-white-p);
+  background: var(--Very-light-gray);
   color: white;
   font-size: var(--font);
 }
