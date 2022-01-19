@@ -24,7 +24,9 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](https://github.com/joud-s/3-column-preview-card-component/blob/main/images/mobile.png)
+![](https://github.com/joud-s/3-column-preview-card-component/blob/main/images/mobile.png)
+![](https://github.com/joud-s/3-column-preview-card-component/blob/main/images/mobile.png)
 
 ### Links
 
