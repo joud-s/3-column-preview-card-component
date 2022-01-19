@@ -58,7 +58,9 @@ button:focus {
   color: var(--Very-dark-cyan);
 }
 .container {
-  margin: 3rem auto;
+  display: flex;
+  height: 100vh;
+  place-items: center;
 }
 .wrapper {
   display: flex;
