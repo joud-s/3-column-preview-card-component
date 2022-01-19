@@ -26,7 +26,7 @@ Users should be able to:
 
 ![](https://github.com/joud-s/3-column-preview-card-component/blob/main/images/mobile.png)
 ![](https://github.com/joud-s/3-column-preview-card-component/blob/main/images/on%20web%20brwoser-hover.png) 
-![](https://github.com/joud-s/3-column-preview-card-component/blob/main/images/on%20web%20brwoser-hover.png)
+![](https://github.com/joud-s/3-column-preview-card-component/blob/main/images/on%20web%20brwoser.png)
 
 ### Links
 
